@@ -1,0 +1,47 @@
+.Header {
+
+}
+
+.Container {
+    margin-left: 4%;
+}
+
+.InputNumber {
+    width: 50px;
+    height: 50px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    border-radius: 8px;
+    border: 2px solid #e5e5e5;
+}
+
+.InputSize {
+    width: 48px;
+}
+
+.CalcContainer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+.CalcContainer div {
+    margin: 10px;
+}
+
+.CalcButton {
+    margin-left: 11px;
+}
+.MatrixLine{
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+.MatrixForm{
+    width: 50px;
+    height: 50px;
+}
+
+.MatrixDet {
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+}
